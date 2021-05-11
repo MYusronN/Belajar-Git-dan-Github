@@ -1,8 +1,11 @@
 Rencana Belajar Pemrograman Web
   HTML5
   Javascript
+    - Angular
+    - React
   BackEnd :
     - PHP
     - PHP OOP
     - PHP Framework
-  Database
+      - laravel
+  
