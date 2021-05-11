@@ -1,4 +1,6 @@
 Rencana Belajar Pemrograman Web
+  HTML5
+  Javascript
   BackEnd :
     - PHP
     - PHP Framework
