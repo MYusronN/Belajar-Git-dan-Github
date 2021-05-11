@@ -1,0 +1,8 @@
+Belajar Version Control Git.
+sumber: Youtube Web Programming Unpas
+
+Step Yang Sudah Dilakukan:
+  - Pengenalan Git dan Github
+  - Bekerja dengan Github
+  - Git Branch dan Merge
+ 
